@@ -151,3 +151,9 @@ nav #menu li a:hover {
 		font-size: 26px;
 	}
 }
+
+@media (max-width: 1440px) {
+	.vector {
+		height: 400px;
+	}
+}
